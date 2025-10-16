@@ -1,0 +1,2 @@
+# scare-game
+python game
