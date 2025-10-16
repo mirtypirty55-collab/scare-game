@@ -1,0 +1,129 @@
+1. Veteran System
+
+Replaces XP/leveling systems completely.
+
+Calculates strength based on:
+
+Moves used
+
+Battles won or lost
+
+Limb loss
+
+Vision loss
+
+Scars
+
+Attacks endured
+
+Trauma (psychological/physical)
+
+Pokémon can become stronger or weaker based on how they fight: losing isn’t automatically bad—if they fight their best, they can gain strength.
+
+Retreating doesn’t count as a loss; you can fight well and retreat to avoid injuries.
+
+Old logs decay or weaken over time to avoid punishing the player for one loss, but permanent injuries remain.
+
+No HP bar or stats; all progression is shown through descriptive text:
+
+Example: “This Pokémon is battle-hardened, sharp, fast, and strong. It is missing a limb, but is still effective.”
+
+Example: “This Pokémon is not in good shape; missing two limbs and half blind. It seems to have past trauma and can’t fight effectively anymore.”
+
+System creates logs for every Pokémon to track everything they’ve done.
+
+The world continues in the background while the player progresses:
+
+Wild Pokémon fight each other and grow stronger or weaker.
+
+Trainers fight in the background, becoming great or vanishing if they lose all their Pokémon.
+
+Encountering the same Pokémon at different times may mean it is tens of times stronger or weaker.
+
+Pokémon live up to 100 years; older Pokémon are experienced but not necessarily in good condition—they can be strong or weak.
+
+Losing a limb is traumatic and reduces stats significantly, but minor losses like a claw barely affect stats.
+
+Adaptation to injuries is gradual, not instant.
+
+Losing well can increase strength, but only if fighting strong enemies; it doesn’t work against weak ones.
+
+The system is designed to be realistic, descriptive, and dynamic, adding infinite replayability and meaningful consequences.
+
+2. Struggler Quirk
+
+Rare quirk (1 in a million), can be from birth or gained through extreme trauma (e.g., losing an entire party but barely surviving).
+
+Effects:
+
+Extreme hardiness; fights through hits and injuries
+
+Can adapt movesets to accommodate injuries or prosthetics
+
+Prosthetics give defensive boosts for those with the quirk
+
+Cannot restore lost stats fully but mitigates damage
+
+Legendary Pokémon cannot have the quirk—they have never experienced trauma or needed it.
+
+Even Pokémon without the Struggler quirk adapt their movesets to injuries, just not as effectively.
+
+3. Injuries, Trauma, & Adaptation
+
+Limb loss, vision loss, permanent scars, and other trauma affect stats and effectiveness.
+
+Pokémon adapt to injuries gradually, changing their fighting style and movesets over time.
+
+Blind Pokémon sharpen their other senses but require a skilled trainer, otherwise they are ineffective.
+
+Losing a limb drastically reduces performance; minor parts lost (like claws) have little effect.
+
+Adaptation works for all Pokémon but takes time and experience.
+
+Permanent injuries cannot be undone and remain part of the Pokémon’s history.
+
+4. Combat Mechanics
+
+Winning battles increases strength; losing battles can also increase strength if fought effectively.
+
+Retreating allows survival without major penalties but gives less progression.
+
+Fighting poorly or against weak enemies does not improve stats significantly.
+
+Risk is inherent: fighting strong opponents may result in permanent injuries, even if successful.
+
+There is no cheating via easy farming—the system detects the quality of fights.
+
+5. Background Simulation
+
+The game world continues in the background while the player progresses.
+
+Wild Pokémon and trainers fight independently.
+
+Pokémon may gain strength, lose strength, or even die without player interaction.
+
+This creates a dynamic, living world where encounters can be drastically different between visits.
+
+6. Lifespan & Pokéball Mechanics
+
+Pokémon have a maximum lifespan of 100 years.
+
+Near-100-year Pokémon are highly experienced but may be physically weak.
+
+Pokéballs only last 100 years: after this limit, the Pokémon inside dies unless it escapes.
+
+Mechanics tie directly into story events (e.g., the cave Pokémon saving itself from a dead Pokéball).
+
+7. Summary of System Effects
+
+The Veteran System removes primitive XP mechanics and replaces them with a fully dynamic, descriptive system.
+
+Struggler Quirk creates rare, adaptive Pokémon that can survive extreme conditions.
+
+Injuries, trauma, and adaptation create long-term consequences for decisions.
+
+Background world simulation ensures infinite replayability and emergent storytelling.
+
+Combat requires strategy and risk assessment; every action matters.
+
+Lifespan and Pokéball mechanics tie survival, rarity, and story into gameplay.
